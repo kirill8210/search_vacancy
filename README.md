@@ -1,5 +1,5 @@
 ## Search vacancy
-Preview [Link]()
+Preview [Link](https://kirill8210.github.io/search_vacancy/)
 ### Task description:
 - Use JS and data from a remote api<br><br>
 ![Screens_1](img/Screens_1.jpg)
